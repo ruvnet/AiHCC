@@ -150,3 +150,48 @@ Ready to contribute to the future of AI consulting? Join AiHCC today and be part
 For more information, visit our [website](#) or contact us directly through our communication channels.
 
 Let's build the future of AI consulting together!
+
+
+```
+
+├── README.md
+├── CONTRIBUTING.md
+│
+├── marketing_business_development
+│   └── README.md
+│
+├── implementation
+│   └── README.md
+│
+├── project_management
+│   └── README.md
+│
+├── technical_expertise
+│   └── README.md
+│
+├── creative_contributions
+│   └── README.md
+│
+├── working_groups
+│   ├── marketing
+│   │   └── README.md
+│   ├── technical
+│   │   └── README.md
+│   └── project_management
+│       └── README.md
+│
+├── committees
+│   ├── ethics
+│   │   └── README.md
+│   ├── dispute_resolution
+│   │   └── README.md
+│   └── project_approval
+│       └── README.md
+│
+├── docs
+│   └── documentation_standards.md
+│
+└── tools_communication
+    └── README.md
+
+```

@@ -1,3 +1,13 @@
+```
+   _   _         ___  ___ 
+  /_\ (_) /\  /\/ __\/ __\
+ //_\\| |/ /_/ / /  / /   
+/  _  \ / __  / /__/ /___ 
+\_/ \_/_\/ /_/\____|____/ 
+
+         AiHCC                                                                      
+```
+
 # AI Hackerspace Consulting Collective (AiHCC)
 
 Welcome to the AI Hackerspace Consulting Collective (AiHCC), a pioneering, merit-based consulting collective shaped by the ethos of open-source collaboration. At AiHCC, we unite the talents of AI professionals from around the globe, creating a vibrant platform where innovation thrives, collaboration is the norm, and commitment to excellence is richly rewarded.

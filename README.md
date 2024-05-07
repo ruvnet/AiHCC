@@ -18,7 +18,7 @@ The AI Hackerspace Consulting Collective (AiHCC) is founded on the principle of 
 
 ### Redefining AI Consulting
 
-AiHCC seeks to challenge and expand the boundaries of conventional AI consulting by adopting a model that is inherently cooperative rather than competitive. In traditional settings, consulting often revolves around rigid hierarchies and closed processes where only a few benefit from the success of the enterprise. In contrast, AiHCC operates on a meritocratic basis, where rewards and recognition are distributed according to the value of the contributions made by each member. This system ensures that all participants are motivated to contribute their best work, knowing that their efforts will be directly linked to tangible rewards.
+AiHCC seeks to challenge and expand the boundaries of conventional AI consulting by adopting a model that is inherently cooperative. In traditional settings, consulting often revolves around rigid hierarchies and closed processes where only a few benefit from the success of the enterprise. In contrast, AiHCC operates on a meritocratic basis, where rewards and recognition are distributed according to the value of the contributions made by each member. This system ensures that all participants are motivated to contribute their best work, knowing that their efforts will be directly linked to tangible rewards.
 
 ### Cooperative Environment
 
@@ -26,7 +26,7 @@ At AiHCC, we are building an environment that mirrors the ethos of the open-sour
 
 ### Leveraging a Decentralized Structure
 
-The decentralized structure of AiHCC is pivotal to its operation. Unlike traditional consulting firms that rely on a central command and control center, AiHCC distributes leadership and decision-making authority across the entire network of contributors. This approach not only speeds up the decision-making process but also empowers members by giving them a direct voice in the governance of the collective. It allows AiHCC to operate with greater flexibility and responsiveness, adapting quickly to new opportunities or shifts in the market.
+The decentralized structure of AiHCC is pivotal to its operation. Unlike traditional consulting firms, AiHCC distributes leadership and decision-making authority across the entire network of contributors. This approach not only speeds up the decision-making process but also empowers members by giving them a direct voice in the governance of the collective. It allows AiHCC to operate with greater flexibility and responsiveness, adapting quickly to new opportunities or shifts in the market.
 
 ### Dynamic Exchange of Ideas and Solutions
 
@@ -42,21 +42,21 @@ In conclusion, AiHCC is not just redefining how AI consulting is done; it is als
 
 ### Mission
 
-The AI Hackerspace Consulting Collective (AiHCC) is committed to revolutionizing the field of AI consulting by democratizing access to high-quality AI solutions. Our mission is to create an environment where the barriers to entry for AI consulting are significantly lowered, enabling a broader range of clients to benefit from cutting-edge AI technologies. Simultaneously, we aim to establish a fair and equitable system for distributing rewards among our contributors, ensuring that every effort towards the collective's success is recognized and compensated. By doing so, we aspire to foster a community of AI professionals who are motivated not only by the pursuit of innovation but also by the principles of equity and shared success.
+The AI Hackerspace Consulting Collective (AiHCC) is committed to revolutionizing the field of AI consulting by democratizing access to high-quality AI solutions. Our mission is to create an environment where the barriers to entry for accessing AI consulting are significantly lowered, enabling a broader range of clients to benefit from cutting-edge AI technologies. Simultaneously, we aim to establish a fair and equitable system for distributing rewards among our contributors, ensuring that every effort towards the collective's success is recognized and compensated. By doing so, we aspire to foster a community of AI professionals who are motivated not only by the pursuit of innovation but also by the principles of equity and shared success.
 
 ### Vision
 
-Our vision is to position AiHCC as a beacon of collaborative AI consulting, distinguished by its commitment to innovation, inclusivity, and fairness. We envision a future where AiHCC is recognized globally for its unique approach to AI consulting, one that is driven by a diverse assembly of talent from around the world. In this future, AiHCC leads by example, demonstrating how collaborative efforts can result in groundbreaking AI solutions that are accessible to a wide range of clients, from startups to large corporations. Furthermore, we aim to show that a merit-based reward system not only incentivizes high-quality contributions but also cultivates a culture of mutual respect and support among members of the AI community.
+Our vision is AiHCC as a beacon of collaborative AI consulting, distinguished by its commitment to innovation, inclusivity, and fairness. AiHCC will be recognized globally for its unique approach to AI consulting, one that is driven by a diverse assembly of talent from around the world. In this future, AiHCC leads by example, demonstrating how collaborative efforts can result in groundbreaking AI solutions that are accessible to a wide range of clients, from startups to large corporations. Furthermore, we aim to show that a merit-based reward system not only incentivizes high-quality contributions but also cultivates a culture of mutual respect and support among members of the AI community.
 
 ### Core Principles
 
 #### Collaboration Over Competition
 
-We believe that the best solutions emerge from collaborative efforts rather than competitive endeavors. AiHCC is built on the foundation of teamwork and shared objectives, where every member has the opportunity to contribute to and influence the collective's direction.
+We believe that the best solutions emerge from collaborative efforts rather. AiHCC is built on the foundation of teamwork and shared objectives, where every member has the opportunity to contribute to and influence the collective's direction.
 
-#### Meritocracy and Equity
+#### Meritocracy
 
-At the heart of AiHCC is a commitment to meritocracy and equity. We strive to ensure that rewards and recognition are distributed based on the quality and impact of each member's contributions. This principle guides all our operations, from project assignments to profit sharing.
+At the heart of AiHCC is a commitment to meritocracy. We strive to ensure that rewards and recognition are distributed based on the quality and impact of each member's contributions. This principle guides all our operations, from project assignments to profit sharing.
 
 #### Openness and Transparency
 
